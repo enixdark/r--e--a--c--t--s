@@ -27,3 +27,5 @@ bower_components
 build/*
 # Users Environment Variables
 .lock-wscript
+
+public
